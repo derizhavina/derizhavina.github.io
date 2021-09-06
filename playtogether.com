@@ -8,17 +8,36 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://.com/vids/fnf.mp4",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://derizhavina.github.io/privacy.html",
       
       "spancount": 1,
       
       "guide": [
-        
+     [
+          "Play Together",
+          "https://i.imgur.com/z6lEfu4.jpg",
+          "Meet your friends from all over the world! Here comes the metaverse world where friends from all around the world can gather around! Care to Play Together \n Make memorable moments in our virtual playground with your friends!Meet new friends at the Plaza, go shopping, or enjoy various minigames at the Game Center.Play a game of hide and seek with zombies at the Ghost House at night and try reaching the top of the Tower of Infinity at the Camping Ground"
+        ],
         [
-          "Friday Night AutoBrawl",
-          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
-          "Friday Night AutoBrawl is a singleplayer vehicular combat game with perma- permadeath, meaning when you're dead, you're dead forever. No second chances.----->>>10 unique enemies to survive: Fight your way through 10 unique enemies, including a forklift with an insta-killing fork, an armoured tuk tuk with a spiked club, and a monster truck with a flaming machete.------>>>>> Fast Paced, tactical combat: Get near an enemy to throw your lance, and drive over it to pick it up again. Simple to play but deceptively difficult to master.----->>>>>>One Chance: When you die, that's it, game over, and you are completely locked out of the game, never to play again"
+          "How to play?",
+          "https://i.imgur.com/prBWZAs.png",
+          "The folks at the Plaza will have special quests for you! Complete the quests and get rewards! Every day is different at Play Together! \n Go on a special trip at Play Together. Travel overseas by going to the Travel Agency! Meet new friends from all around the world and mark the places you've visited"
+        ],
+        [
+          "How To Win",
+          "https://i.imgur.com/uqTXwJe.jpg",
+          "Be creative and decorate your house using furniture of various themes! There are many colorful themes to choose from such as Egyptian, Toy Block, Botany and more \n If you're done decorating the house, it's time to host a House Party! The theme of the party can be whatever you like!"
+        ],
+        [
+          "Guide",
+          "https://i.imgur.com/f6CRBLI.jpg",
+          "Only you can define who you are! Express yourself with costumes and accessories! skateboards, sports carts, or off-road cars? Cruise the beach with your lovely pet and friends! \n The theme of the party can be whatever you like! Dancing party, pool party, cooking class, brunch spots and more! The only limit is your imagination"
+        ],
+        [
+          "PLAY NOW",
+          "https://i.imgur.com/003Z3dQ.png",
+          "Play a game of hide and seek with zombies at the Ghost House at night and try reaching the top of the Tower of Infinity at the Camping Ground \n Make memorable moments in our virtual playground with your friends! Meet new friends at the Plaza, go shopping, or enjoy various minigames at the Game Center"
         ]
       ],
       "showOnlyOpen":false,
