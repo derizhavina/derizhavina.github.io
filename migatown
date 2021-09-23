@@ -4,14 +4,14 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
       
       "video": "https://drive.google.com/uc?id=16Dk9HreTVugCxUKCB28BTocIH79LU49Q",
-      "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
+      "privacy": "https://derizhavina.github.io/privacy.html",
       "mail":"derizhavina",
       
       
@@ -129,9 +129,9 @@
         "admb_openad": "ca-app-pub-3940256099942544/3419835294"
       },
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       },
       
