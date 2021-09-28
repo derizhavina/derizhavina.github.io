@@ -10,7 +10,7 @@
       "newAppLink": "",
       
       "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
-      "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
+      "privacy": "https://derizhavina.github.io/privacy.html",
       
       "spancount": 1,
       
@@ -43,7 +43,7 @@
         ] 
       ],
       "showOnlyOpen":false,
-      "NativeCount": 1,
+      "NativeCount": 2,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -51,14 +51,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admb_openad": "ca-app-pub-3940256099942544/3419835294",
-        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
-        "admb_native": "ca-app-pub-3940256099942544/2247696110"
+        "admb_banner": "ca-app-pub-7144089957930196/4471790648",
+        "admb_openad": "ca-app-pub-7144089957930196/1255418609",
+        "admb_inters": "ca-app-pub-7144089957930196/3286346266",
+        "admb_native": "ca-app-pub-7144089957930196/2544449542"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
